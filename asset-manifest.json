@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/prap/static/css/main.1106f912.css",
+    "main.js": "/prap/static/js/main.a4006476.js",
+    "static/js/787.e33042c3.chunk.js": "/prap/static/js/787.e33042c3.chunk.js",
+    "static/media/metaverse.png": "/prap/static/media/metaverse.1749811705cf16c8bcd6.png",
+    "static/media/snowcrash.png": "/prap/static/media/snowcrash.b510df0759e13252e0ae.png",
+    "static/media/image.png": "/prap/static/media/image.7d7f6a83037a20a703df.png",
+    "static/media/meta.png": "/prap/static/media/meta.3e3278c7f07ce6a08533.png",
+    "static/media/Rectangle.png": "/prap/static/media/Rectangle.6e9c361919670f8744a3.png",
+    "static/media/sao.png": "/prap/static/media/sao.d898956ed1f7514ca3f8.png",
+    "static/media/teknologi.png": "/prap/static/media/teknologi.f1290ee50044f5c3e5b9.png",
+    "static/media/freeman.png": "/prap/static/media/freeman.e99c426eadb81ed0568b.png",
+    "static/media/projectvr.png": "/prap/static/media/projectvr.5862a4c3224a9bbf7064.png",
+    "static/media/metaverseindo.png": "/prap/static/media/metaverseindo.11fa481ea1bf2d11ab9e.png",
+    "static/media/Rectangle2.png": "/prap/static/media/Rectangle2.adc7a6d76adf35acfc16.png",
+    "static/media/vr.png": "/prap/static/media/vr.28f628141306c137375d.png",
+    "static/media/festival.png": "/prap/static/media/festival.68d4af2185316d726ede.png",
+    "static/media/Rectangle3.png": "/prap/static/media/Rectangle3.445fa98e3375ec842f61.png",
+    "static/media/Group 21.png": "/prap/static/media/Group 21.feee021fd8cbc983fb02.png",
+    "index.html": "/prap/index.html",
+    "main.1106f912.css.map": "/prap/static/css/main.1106f912.css.map",
+    "main.a4006476.js.map": "/prap/static/js/main.a4006476.js.map",
+    "787.e33042c3.chunk.js.map": "/prap/static/js/787.e33042c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1106f912.css",
+    "static/js/main.a4006476.js"
+  ]
+}
